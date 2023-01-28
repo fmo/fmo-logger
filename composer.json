@@ -1,0 +1,7 @@
+{
+    "name": "fmo/fmo-logger",
+    "description": "Logging apps",
+    "require": {
+        "php": ">=7.4"
+    }
+}
