@@ -1,6 +1,7 @@
 {
     "name": "fmo/fmo-logger",
     "description": "Logging apps",
+    "license": "MIT",
     "require": {
         "php": ">=7.4"
     }
